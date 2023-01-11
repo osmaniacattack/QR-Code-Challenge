@@ -48,15 +48,21 @@
 
 .card-heading {
     text-align: center;
-    font-size: 22px;
     color: #1F314F;
     font-weight: 700;
 }
 
+h1 {
+    font-size: 1em;
+}
+
 .card-paragraph {
-    font-size: 15px;
     color: #7D889E;
     font-weight: 400;
+}
+
+p {
+    font-size: 1em;
 }
 
 footer {
